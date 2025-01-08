@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fardeen</h1>
 <h3 align="center">A passionate developer from Bangladesh</h3>
-
+<img align = "right alt = "Coding" width:"400" src = "https://giphy.com/gifs/digg-soccer-world-cup-get-on-this-gVlgj80ZLp9y">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=liquid-coder&label=Profile%20views&color=0e75b6&style=flat" alt="liquid-coder" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=liquid-coder" alt="liquid-coder" /></a> </p>
