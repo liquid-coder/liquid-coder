@@ -10,6 +10,7 @@
 <h3 align="left">Connect with me:</h3>  
 <p align="left">
 <a href="https://linkedin.com/in/fardeen-islam-082750258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fardeen-islam-082750258" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/29123379/liquid-coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:29123379" height="30" width="40" /></a>
 <a href="https://twitter.com/fardeen_islam_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fardeen_islam_" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/mdfardeenislam28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mdfardeenislam28" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/liquid_coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="liquid_coder" height="30" width="40" /></a>
