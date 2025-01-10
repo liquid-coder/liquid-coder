@@ -24,5 +24,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=liquid-coder&show_icons=true&locale=en&theme=default&bg_color=000000&text_color=ffffff&icon_color=79ff97&title_color=ffffff" alt="liquid-coder" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=liquid-coder&theme=tokyonight" alt="liquid-coder" /></p>
-
-<p><img align = "center" alt = "Coding" width="400" src = "https://i.gifer.com/8VfD.gif"></p>
